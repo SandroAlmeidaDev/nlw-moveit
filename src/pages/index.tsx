@@ -1,11 +1,8 @@
-import { Profiler } from 'react'
-import {
-  ChallengeBox,
-  CompletedChallenges,
-  Countdown,
-  ExperienceBar,
-  Profile
-} from '../components';
+import ChallengeBox from '../components/ChallengeBox'
+import CompletedChallenges from '../components/CompletedChallenges'
+import Countdown from '../components/Countdown'
+import ExperienceBar from '../components/ExperienceBar'
+import Profile from '../components/Profile';
 
 import Head from 'next/head';
 
